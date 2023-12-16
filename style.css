@@ -1,0 +1,64 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: aliceblue;
+}
+.note
+{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+body
+{
+background-size: cover;
+font-family:'Courier New', Courier, monospace;
+}
+.div_speed
+{
+    float: left;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#apptitle
+{
+    font-size: 30px;
+    color: aliceblue;
+
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+    background-color: aliceblue;
+}
+.div_volume
+{
+    float: right;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+    background-color: aliceblue; 
+}
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+    border-radius: 35%;
+}
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
